@@ -169,7 +169,7 @@ Follow these steps to set up the project environment and run the application loc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [link-to-your-github-repo]
+    git clone https://github.com/dhieu0901/Machine-Learning-Group-5-Final-Project.git
     cd Machine-Learning-Group-5-Final-Project
     ```
 
