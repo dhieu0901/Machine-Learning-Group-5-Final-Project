@@ -53,7 +53,7 @@ Build a complete end-to-end machine learning pipeline to accurately forecast Han
 
 ## ✨ Key Features
 
-- **5-day temperature forecast** with high accuracy (R² ≈ 0.94 on test set)
+- **5-day temperature forecast** with high accuracy (R² ≈ 0.84 on test set)
 - **Backtest Mode**: Select any past date → see both predictions and actual temperatures for direct comparison
 - **Live Forecast Mode**: Real future forecast (today + next 5 days)
 - **Interactive visualizations (Plotly)**:
@@ -62,7 +62,7 @@ Build a complete end-to-end machine learning pipeline to accurately forecast Han
 - **Model Explainability (SHAP)**:
   - Top 5 features impacting each specific prediction
   - Global top 10 feature importance
-  - Expandable detailed glossary of all 46 features
+  - Expandable detailed glossary of all 93 features
 - **Performance dashboard**: R², RMSE, MAE on test set
 
 ---
